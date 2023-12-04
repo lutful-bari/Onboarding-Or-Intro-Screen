@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Onboarding Or Intro Screen</string>
+    <string name="first_slide">Chose your Products</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+
+    <string name="description">Lorem Ipsum is simply dummy text of the printing and typsetting..</string>
+</resources>
